@@ -1,0 +1,7 @@
+# Project exclude paths
+target/HtmlReports
+target/JsonReports
+target/JunitReports
+target/test-classes
+cucumber_selenium_framework.iml
+.idea
